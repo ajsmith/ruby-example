@@ -15,8 +15,7 @@ Goals of this project are:
 
 ## Status
 
-Gem Spec - done
-Automated Testing - not started
-Logging - not started
-Console Scripts - not started
-
+  * Gem Spec - done
+  * Automated Testing - not started
+  * Logging - not started
+  * Console Scripts - not started
