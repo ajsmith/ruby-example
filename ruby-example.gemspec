@@ -8,4 +8,6 @@ Gem::Specification.new do |s|
   s.email = 'alex.smith@redhat.com'
   s.files = ['src/example.rb']
   s.homepage = 'https://github.com/ajsmith/ruby-example'
+
+  s.add_development_dependency 'cucumber'
 end
