@@ -1,14 +1,11 @@
-============
-Ruby Example
-============
+# Ruby Example
 
 Just an example project for the purpose of learning Ruby.
 
 
-Goals
-=====
+## Goals
 
-Goals of this project are::
+Goals of this project are:
 
   * Provide an example of Ruby Gem packaging.
 
