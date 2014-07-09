@@ -1,8 +1,8 @@
-=================
-Ruby Test Project
-=================
+============
+Ruby Example
+============
 
-Just a simple test project for learning some of the basics of Ruby.
+Just an example project for the purpose of learning Ruby.
 
 
 Goals
