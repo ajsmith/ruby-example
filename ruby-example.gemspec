@@ -10,4 +10,5 @@ Gem::Specification.new do |s|
   s.homepage = 'https://github.com/ajsmith/ruby-example'
 
   s.add_development_dependency 'cucumber'
+  s.executables << 'hello'
 end
