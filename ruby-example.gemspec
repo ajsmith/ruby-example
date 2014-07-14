@@ -11,4 +11,5 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency 'cucumber'
   s.executables << 'hello'
+  s.executables << 'arg-logger'
 end

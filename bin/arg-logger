@@ -1,0 +1,6 @@
+#!/usr/bin/ruby
+
+require 'syslog/logger'
+
+log = Syslog::Logger.new
+log.info ARGV
