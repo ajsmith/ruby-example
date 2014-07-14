@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = 'Just an example project for the purpose of learning Ruby!'
   s.authors = ['Alex Smith']
   s.email = 'alex.smith@redhat.com'
-  s.files = ['src/example.rb']
+  s.files = `find lib/ -name "*.rb" -print`.split("\n")
   s.homepage = 'https://github.com/ajsmith/ruby-example'
 
   s.add_development_dependency 'cucumber'

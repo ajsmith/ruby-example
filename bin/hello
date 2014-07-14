@@ -1,1 +1,4 @@
+#!/usr/bin/ruby
+require 'mymod'
+puts MyMod::f 5, 6
 puts 'hello!'
